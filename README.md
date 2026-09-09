@@ -20,7 +20,7 @@ Ideal für Einsteiger*innen, die Statistik Schritt für Schritt anhand klarer, v
 - `scipy`
 
 ## 📁 Projektstruktur
-
+'''
 statistik-mit-python/
 │
 ├── data/                # Beispiel-Datensätze
@@ -28,5 +28,4 @@ statistik-mit-python/
 ├── src/                 # Python-Module (Funktionen)
 ├── visuals/             # Diagramme & Plots
 └── README.md
-
-
+'''
