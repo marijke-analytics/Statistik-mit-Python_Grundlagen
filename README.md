@@ -23,10 +23,7 @@ Ideal für Einsteiger*innen, die Statistik Schritt für Schritt anhand klarer, v
 ```
 statistik-mit-python/
 │
-├── data/                # Beispiel-Datensätze
-├── notebooks/           # Jupyter-Notebooks zu jedem Thema
-├── src/                 # Python-Module (Funktionen)
-├── visuals/             # Diagramme & Plots
+├── notebooks/           # Jupyter-Notebook
 └── README.md
 ```
 
